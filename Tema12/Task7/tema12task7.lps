@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="tema12task7.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="16"/>
+        <CursorPos X="98" Y="40"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="../Task4/tema12task4.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="18" Y="20"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../Task6/tema12task6.lpr"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="tema12task7.lpr"/>
+        <Caret Line="39" Column="90" TopLine="13"/>
+      </Position1>
+      <Position2>
+        <Filename Value="tema12task7.lpr"/>
+        <Caret Line="2" Column="12"/>
+      </Position2>
+      <Position3>
+        <Filename Value="tema12task7.lpr"/>
+        <Caret Line="22" Column="80" TopLine="10"/>
+      </Position3>
+      <Position4>
+        <Filename Value="tema12task7.lpr"/>
+        <Caret Line="21" Column="17"/>
+      </Position4>
+      <Position5>
+        <Filename Value="tema12task7.lpr"/>
+        <Caret Line="22" Column="55" TopLine="2"/>
+      </Position5>
+      <Position6>
+        <Filename Value="tema12task7.lpr"/>
+        <Caret Line="24" Column="9" TopLine="7"/>
+      </Position6>
+      <Position7>
+        <Filename Value="tema12task7.lpr"/>
+        <Caret Line="34" Column="43" TopLine="11"/>
+      </Position7>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

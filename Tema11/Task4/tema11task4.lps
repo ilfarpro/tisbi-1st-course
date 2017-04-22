@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="tema11task4.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="36" Y="12"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="tema11task4.lpr"/>
+        <Caret Line="10" Column="27"/>
+      </Position1>
+      <Position2>
+        <Filename Value="tema11task4.lpr"/>
+        <Caret Line="5" Column="13"/>
+      </Position2>
+      <Position3>
+        <Filename Value="tema11task4.lpr"/>
+        <Caret Line="16" Column="16"/>
+      </Position3>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

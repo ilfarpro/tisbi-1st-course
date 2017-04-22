@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="tema12task8.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="17"/>
+        <CursorPos X="5" Y="41"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="../Task7/tema12task7.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="17"/>
+        <CursorPos X="5" Y="47"/>
+        <UsageCount Value="9"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../../На паре 2/project1.lpr"/>
+        <UnitName Value="pr2"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="17"/>
+        <CursorPos X="13" Y="31"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="1">
+      <Position1>
+        <Filename Value="tema12task8.lpr"/>
+        <Caret Line="5" Column="5"/>
+      </Position1>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

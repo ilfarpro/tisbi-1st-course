@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="tema12task3.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="team12task3"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="12"/>
+        <CursorPos X="41" Y="21"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="../Task2/tema12task2.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="5" Y="21"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../Task1/team12task1.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="32"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="1">
+      <Position1>
+        <Filename Value="tema12task3.lpr"/>
+        <Caret Line="4" Column="3"/>
+      </Position1>
+      <Position2>
+        <Filename Value="tema12task3.lpr"/>
+        <Caret Line="13" Column="7"/>
+      </Position2>
+      <Position3>
+        <Filename Value="tema12task3.lpr"/>
+        <Caret Line="30" Column="85" TopLine="4"/>
+      </Position3>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
