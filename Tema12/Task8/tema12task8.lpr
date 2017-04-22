@@ -1,12 +1,12 @@
 program tema12task8;
-const n=2; diapazon=4;
+const n=2; {степень квадратной матрицы} diapazon=4; {интервал между столбцами}
 var
   a,b,c:array[1..n, 1..n] of integer;
-  i,j,k,max,min:integer;
+  i,j,k:integer;
   answer:char;
-  sr:real;
 begin
   repeat
+    {ввод исходных данных и сразу же вывод}
     WriteLn('Ввод матрицы А:');
     for i:=1 to n do begin
         Write('Введите элементы ',i,' строки: ');
@@ -38,19 +38,12 @@ begin
         end;
         WriteLn;
     end;
-    {транспонирую матрицу, чтобы можно было умножать}
-    for i:=1 to n do begin
-        for j:=1 to n do begin
-            b[i,j]:=b[j,i];
+    {умножаем матрицы}
+    for i:=1 to n do
+        for j:=1 to n do
+            for k:=1 to n do begin
+                c[i,j]:=c[i,j] + (a[i,k]*b[k,j]);
         end;
-    end;
-    {тут начинается главный алгоритм}
-    for i:=1 to n do begin
-        b[i,j]:=b[j,i];
-        for j:=1 to n do begin
-            c[i,j]:=a[i,j]*b[i,j];
-        end;
-    end;
     WriteLn('Ваша матрица C: ');
     for i:=1 to n do begin
         for j:=1 to n do begin
@@ -58,8 +51,6 @@ begin
         end;
         WriteLn;
     end;
-
-    {тут заканчивается главный алгоритм}
     WriteLn;
     Write('Хотите запустить ещё раз? (y/n): ');
     ReadLn(answer);

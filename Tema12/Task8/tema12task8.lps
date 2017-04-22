@@ -8,9 +8,8 @@
         <Filename Value="tema12task8.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="17"/>
-        <CursorPos X="5" Y="41"/>
-        <UsageCount Value="27"/>
+        <CursorPos X="20" Y="39"/>
+        <UsageCount Value="28"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
@@ -23,18 +22,21 @@
       <Unit2>
         <Filename Value="../../На паре 2/project1.lpr"/>
         <UnitName Value="pr2"/>
-        <EditorIndex Value="1"/>
+        <EditorIndex Value="-1"/>
         <TopLine Value="17"/>
         <CursorPos X="13" Y="31"/>
         <UsageCount Value="13"/>
-        <Loaded Value="True"/>
       </Unit2>
     </Units>
-    <JumpHistory Count="1">
+    <JumpHistory Count="2" HistoryIndex="1">
       <Position1>
         <Filename Value="tema12task8.lpr"/>
         <Caret Line="5" Column="5"/>
       </Position1>
+      <Position2>
+        <Filename Value="tema12task8.lpr"/>
+        <Caret Line="52" Column="17" TopLine="37"/>
+      </Position2>
     </JumpHistory>
   </ProjectSession>
 </CONFIG>
