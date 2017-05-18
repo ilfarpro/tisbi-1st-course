@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="tema14task1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="69"/>
+        <CursorPos X="9" Y="83"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="../../../../../classwork-classwork/tema14/task1.pas"/>
+        <UnitName Value="tema14task1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="32"/>
+        <CursorPos X="5" Y="62"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../Tema16/Task6/tema16task6.lpr"/>
+        <UnitName Value="tema16task5"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="13"/>
+        <CursorPos X="24" Y="33"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="16" HistoryIndex="15">
+      <Position1>
+        <Filename Value="tema14task1.lpr"/>
+        <Caret Line="2" Column="9"/>
+      </Position1>
+      <Position2>
+        <Filename Value="tema14task1.lpr"/>
+        <Caret Line="27" Column="49" TopLine="22"/>
+      </Position2>
+      <Position3>
+        <Filename Value="tema14task1.lpr"/>
+        <Caret Line="35" Column="31" TopLine="19"/>
+      </Position3>
+      <Position4>
+        <Filename Value="tema14task1.lpr"/>
+        <Caret Line="11" Column="8" TopLine="8"/>
+      </Position4>
+      <Position5>
+        <Filename Value="tema14task1.lpr"/>
+        <Caret Line="48" Column="48" TopLine="34"/>
+      </Position5>
+      <Position6>
+        <Filename Value="tema14task1.lpr"/>
+        <Caret Line="45" Column="45" TopLine="25"/>
+      </Position6>
+      <Position7>
+        <Filename Value="tema14task1.lpr"/>
+        <Caret Line="34" Column="52" TopLine="24"/>
+      </Position7>
+      <Position8>
+        <Filename Value="tema14task1.lpr"/>
+        <Caret Line="30" Column="112" TopLine="24"/>
+      </Position8>
+      <Position9>
+        <Filename Value="tema14task1.lpr"/>
+        <Caret Line="42" Column="9" TopLine="19"/>
+      </Position9>
+      <Position10>
+        <Filename Value="tema14task1.lpr"/>
+        <Caret Line="24" Column="18" TopLine="9"/>
+      </Position10>
+      <Position11>
+        <Filename Value="tema14task1.lpr"/>
+        <Caret Line="78" Column="18" TopLine="60"/>
+      </Position11>
+      <Position12>
+        <Filename Value="tema14task1.lpr"/>
+        <Caret Line="15" Column="14" TopLine="69"/>
+      </Position12>
+      <Position13>
+        <Filename Value="tema14task1.lpr"/>
+        <Caret Line="72" Column="17" TopLine="69"/>
+      </Position13>
+      <Position14>
+        <Filename Value="tema14task1.lpr"/>
+        <Caret Line="95" Column="42" TopLine="69"/>
+      </Position14>
+      <Position15>
+        <Filename Value="tema14task1.lpr"/>
+        <Caret Line="91" Column="17" TopLine="69"/>
+      </Position15>
+      <Position16>
+        <Filename Value="tema14task1.lpr"/>
+        <Caret Line="90" Column="21" TopLine="69"/>
+      </Position16>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
